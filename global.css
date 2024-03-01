@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --nav: Jost;
+
+  /* font sizes */
+  --font-size-base: 16px;
+  --nav-size: 12px;
+  --font-size-6xl: 25px;
+
+  /* Colors */
+  --color-black: #000;
+  --color-white: #fff;
+  --color-gainsboro-100: #d9d9d9;
+  --color-gainsboro-200: rgba(217, 217, 217, 0.5);
+  --color-darkgray: #9a9a9a;
+
+  /* Gaps */
+  --gap-3xs: 10px;
+  --gap-0: 0px;
+
+  /* Paddings */
+  --padding-3xs: 10px;
+
+  /* Border radiuses */
+  --br-26xl: 45px;
+  --br-11xl: 30px;
+}
